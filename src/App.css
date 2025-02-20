@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Roboto:wght@100&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", serif;
+  font-weight: 700;
+}
+
+.app{
+  min-height: 100vh;
+  color: white;
+  background: linear-gradient(#090465 ,#1d152f,#002834);
+}
+
+
+a{
+  text-decoration: none;
+}
