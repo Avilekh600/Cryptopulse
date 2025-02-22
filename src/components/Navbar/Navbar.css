@@ -33,11 +33,13 @@
     border-radius: 6px;
     background: transparent;
     color : white;
+    cursor: pointer;
 }
 
 .navbar option{
     background-color: #1d152f;
     font-size: 15px;
+    cursor: pointer;
 }
 
 .navbar button{
